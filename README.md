@@ -11,3 +11,7 @@ screen -m -d -S rviz1 bash -c 'rosrun rviz rviz'
 https://github.com/szenergy/demo_shell_scipts
 
 ![](simple/openscreens.png)
+
+## `publish_ros2.py`
+
+![](simple_ros2/publish_ros2.png)
